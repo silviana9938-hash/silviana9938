@@ -1,0 +1,224 @@
+<html>
+<head>
+<title>Biodata Murid</title>
+<style>
+table {
+border:1px solid blue;
+border-collapse:
+width:100%;
+}
+table td,table th {
+border:1px solid blue;
+padding: 8px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1 style="
+color: red;
+">Biodata Murid</h1>
+<p style="
+color: purple;
+">Perofil ringkas murid untuk keperluan administrasi sekolah</p>
+<h2 style="
+color: blueviolet;
+">Identitas</h2>
+<table border="1" callspadding="5">
+<tr>
+<td>Nama Lengkap</td>
+<td>silviana georgina</td>
+</tr>
+<tr>
+<td>Nama Panggilan</td>
+<td>vina</td>
+</tr>
+<tr>
+<td>NISN</td>
+<td>0016710</td>
+</tr>
+<tr>
+<td>Tanggal Lahir</td>
+<td>21 November 2000</td>
+</tr>
+<tr>
+<td>Jenis Kelamin</td>
+<td>Perempuan</td>
+</tr>
+<tr>
+<td>Agama</td>
+<td>Islam</td>
+</tr>
+<tr>
+<td>Golongan Darah</td>
+<td>O</td>
+</tr>
+</table>
+<hr>
+<h2 style="
+color: blueviolet;
+">Alamat</h2>
+<address>
+pangkah Rt01/Rwo4
+<br>
+Kelurahan Tawangharjo, Kecamatan Giriwoyo
+<br>
+Kota Wonogiri, Jawa Tengah 57675
+<br>
+Indonesia
+</address>
+<h3 style="
+color: violet;
+">Kontak</h3>
+<table border="1" callspadding="5">
+<tbody> 
+<tr>
+<td>Telepon</td>
+<td>
+<a href="tel:+6281534301011">+62 815-3430-1011</a>
+</td>
+</tr>
+<tr>
+<td>Email</td>
+<td>
+<a href="mailto:silviuro495@gmail.com">silviuro495@gmail.com</a>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 style="
+color: violet;
+">Orang Tua / Wali</h2>
+<table border="1" callspadding="5">
+<tbody> 
+<tr>
+<td>Nama Ayah</td>
+<td>Rendra Basandra</td>
+</tr>
+<tr>
+<td>Nama Ibu</td>
+<td>Sri Astuti</td>
+</tr>
+<tr>
+<td>Kontak Wali</td>
+<td>+628658969904</table>
+</td>
+</tr>
+</tbody>
+</table>
+<hr> 
+<h2 style="
+color: violet;
+">pendidikan</h2>
+<table border="1" callspadding="5">
+<thead>
+<tr>
+<th>Tahun</th>
+<th>Sekolah</th>
+<th>Keterangan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2015-2016</td>
+<td>TK AISYIYAH</td>
+<td>Lulus</td>
+</tr>
+<tr>
+<td>2016-2020</td>
+<td>SDN BATURETNO</td>
+<td>Lulus</td>
+</tr>
+<tr>
+<td>2020-2025</td>
+<td>MTS 3 GIRIWOYO</td>
+<td>Lulus</td>
+</tr>
+<tr>
+<td>2024-Sekarang</td>
+<td>SMK NEGERI 1</td>
+<td>Kelas 1</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 style="
+color: violet;
+">Hobi & Minat</h2>
+<table border="1" callspadding="5"
+<tbody> 
+<tr>
+<td>Badminton</td>
+</tr>
+<tr>
+<td>Jalan-jalan</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 style="
+color: violet;
+">Prestasi</h2>
+<table border="1" callspadding="5">
+<thead>
+<tr>
+<td>1</td>
+<td>Juara 3 kelulusan SD</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Juara 1 lomba agustus</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 style="
+color: navy;
+">Riwayat Kesehatan Singkat</h2>
+<table border="1" callspadding="5"
+<tbody> 
+<tr>
+<td>Alergi</td>
+<td>Tidak ada<td>
+</tr>
+<tr>
+<td>Vaksinasi</td>
+<td>Lengkap Sesuai Usia<td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 style="
+color: red;
+">Kontak Darurat</h2>
+<table border="1" callspadding="5">
+<tbody>
+<tr>
+<td>Nama</td>
+<td>Rendra Basandra</td>
+</tr>
+<tr>
+<td>Telepon</td>
+<td>+628658969904</td>
+</tr>
+<tr>
+<td>Alamat</td>
+<td>Pangkah</td>
+</tbody>
+</table>
+</main>
+<footer>
+<p>
+"Terakhir Diperbarui:'
+<TIME DETIME="2025-9-25">25 September 2025</time>
+</p>
+</footer>
+</body>
+</html>
+html body
+
+
+
+
+
